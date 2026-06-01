@@ -48,7 +48,7 @@ Deploy the app to an Android Emulator or a physical Android device running API 2
 
 
 ## Note for evaluation: Watch our full application showcase, including match setup, gameplay, AI interaction, and statistics tracking here:
-
+https://www.youtube.com/watch?v=Kv3oDdsxduM
 
 ## Authors
 
